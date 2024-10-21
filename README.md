@@ -7,6 +7,7 @@ Program **Manajemen Rental Mobil** ini adalah aplikasi berbasis terminal yang di
 
 1. **Ketersediaan Mobil**
    - Menampilkan seluruh data mobil berdasarkan tahun (diurutkan dari yang tertua ke termuda).
+   - Menampilkan seluruh data mobil berdasarkan tarif sewa (diurutkan dari tarif terendah).
    - Menampilkan mobil yang tersedia.
    - Menampilkan mobil yang sedang disewa.
 
